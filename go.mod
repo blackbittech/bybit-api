@@ -1,4 +1,4 @@
-module github.com/frankrap/bybit-api
+module github.com/blackbittech/bybit-api
 
 go 1.13
 
